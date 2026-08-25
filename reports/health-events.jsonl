@@ -1,0 +1,3 @@
+{"event": "state_change", "ts": 1787651422.4283257, "region": "b", "to": "UNHEALTHY", "reason": "readyz_http_503", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"event": "state_change", "ts": 1787651439.3736265, "region": "a", "to": "UNHEALTHY", "reason": "timeout:ReadTimeout", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 3}
+{"event": "state_change", "ts": 1787651449.5272017, "region": "b", "to": "HEALTHY", "reason": "readyz_http_200", "interval_s": 5.0, "threshold": 3, "consecutive_fails": 0}
